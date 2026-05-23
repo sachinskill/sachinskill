@@ -25,7 +25,7 @@ Hi 👋, I'm Sachin Gupta
 ### 🚀 About Me
 
 - 🎓 Final-year **Computer Engineering** student @ Mumbai University (Class of 2026)
-- 💼 Ex **Web Developer** @ IMAXX TV Digital — solo owner of company website, React UI, AWS S3 media pipeline & SEO
+- 💼 Ex **Web Developer** @ IMAXX TV Digital — solo manages the company website, React UI, AWS S3 media pipeline & SEO
 - 🤖 Building real-world AI apps using **DeepSeek R1**, **DJL (Deep Java Library)**, and **OpenCV**
 - 🌱 Currently exploring **Microservices**, **Docker**, and **cloud deployment**
 - 🤝 Open to collaborating on **Full Stack**, **AI-integrated**, or **Java backend** projects
@@ -150,6 +150,7 @@ Digital forensic tool modernizing criminal identification. Drag-and-drop composi
 
 AI-powered email assistant that helps users write professional emails faster.
 
+and many more projects 
 ---
 
 ### 📫 Connect with Me
